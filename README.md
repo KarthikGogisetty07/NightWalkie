@@ -4,12 +4,12 @@
 
 I observed that it takes time for our pupil to adjust to the dark, this device would be an instant soultion if developed with proper budget. Furthermore, it can be extended to help blind move _(indoors or short distances)_.
 
-### Overview:
+### Overview: 🎓
 It is a first phase idea to use the concept of obsticle avoidance for the blind and for the people who wanna walk in dark. The design is inspired by 'BAT'. Where it uses a special property called 'echolocation'. Similarly, the design has an ultrasonic sensors placed as a design of spectacles with a servo attached that revolve continuously around an axis and the sensor collects the required data. Here the time period of the signal to reach the receiver is taken as the raw data that we need and is given as input to a piezoelectric buzzer placed near the ears. We know that f = 1/T, Hence if obstacles are far away then the time period (T) is high thereby producing a sound of lower frequency (f) and as we approach the obstacle the sound would be of higher frequency thereby differentiating whether we are approaching any obstacle in front.
 
 ![IMG_20210904_233921](https://user-images.githubusercontent.com/69350191/132105486-72b24200-c684-4f67-ad67-284dfd402e0c.jpg)
 
-### Project Requriements:
+### Project Requriements: 🛠
 _(These Materials that are listed are of my choice conisedering the budget you can afford and try exploring the use of balsa wood for making the sensor mount)_
 
 ###### Specticles
@@ -65,7 +65,7 @@ _(Reference is taken from TinkerCAD files.)_
 - Two buzzers for 180 degree shift
 - No buzzer beeps if there isn't any obsticle in the set distance range
 
-### Ethics in modeling prototype:
+### Ethics in modeling prototype: ✔️
 In order to provide users best experience using the device. An _(eye-gel)_ mask can be attached to the rare side of the specticles.
 https://www.amazon.in/Gel-Relaxing-Eye-Mask-Sleeping/dp/B08KG3ZYNC/ref=asc_df_B08KG3ZYNC/?tag=googleshopdes-21&linkCode=df0&hvadid=396985008660&hvpos=&hvnetw=g&hvrand=17217870604681999440&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062134&hvtargid=pla-977512920935&psc=1&ext_vrnc=hi
 
@@ -74,7 +74,7 @@ https://www.amazon.in/Gel-Relaxing-Eye-Mask-Sleeping/dp/B08KG3ZYNC/ref=asc_df_B0
 ##### Why an eye-gel mask?
 It relieves eye tiredness,dry eyes,eye and head aches,restlessness,insomnia. Which provides users to relax and use the device as there is a possibility that users get annoyed with the sound of buzzer and moving mechanical parts of the prototype.
 
-### Future Scope:
+### Future Scope: 🦾
 As of now, the protype is promising and basic and has a scope to be improved in its mechanical and electronics aspects.
 - The existing prototype can be improved with the use of Raspberry Pi and bluetooth module. Where voice instructions can be given to the users to either go left, right, straight or a 180 degree shit. The use of bluetooth comes to play if we want our voice outputs to be given to our earpods and so on.
 https://magpi.raspberrypi.org/articles/bluetooth-audio-raspberry-pi-3
