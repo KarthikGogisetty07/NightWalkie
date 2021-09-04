@@ -72,7 +72,7 @@ https://www.amazon.in/Gel-Relaxing-Eye-Mask-Sleeping/dp/B08KG3ZYNC/ref=asc_df_B0
 ![image](https://user-images.githubusercontent.com/69350191/132106659-a3c1cc29-7ec4-4015-a3af-6bdb7475b47f.png)
 
 ##### Why an eye-gel mask?
-It relieves eye tiredness,dry eyes,eye and head aches,restlessness,insomnia. Which provides users to relax and use the device as there is a possibility that users get annoyed with the sound of buzzer and moving mechanical parts of the prototype.
+It relieves eye tiredness, dry eyes, eye and head aches, restlessness, insomnia. Which provides users to relax and use the device as there is a possibility that users get annoyed with the sound of buzzer and moving mechanical parts of the prototype.
 
 ### Future Scope: 🦾
 As of now, the protype is promising and basic and has a scope to be improved in its mechanical and electronics aspects.
