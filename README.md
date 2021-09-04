@@ -81,4 +81,5 @@ https://magpi.raspberrypi.org/articles/bluetooth-audio-raspberry-pi-3
 - Balsa or any rigid materials that are feasible can be used to have a mount for Ultrasonic sensor and nano in order to use the device more comfortablly.
 - The program as of now is inspired from a obsticle avoidance car concept the code can also be tuned and made more optimum 
 
-###### Hope you all enjoy or are inspired by nightwalkiee..
+###### Hope you all enjoyed and are inspired by nightwalkiee! 
+###### _(Thankyou for your time)_.
