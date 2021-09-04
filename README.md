@@ -1,6 +1,6 @@
 # NightWalkie  🕶 
 
-### Path to reach my Idea
+### Path to reach my Idea: 🚀 
 
 I observed that it takes time for our pupil to adjust to the dark, this device would be an instant soultion if developed with proper budget. Furthermore, it can be extended to help blind move _(indoors or short distances)_.
 
